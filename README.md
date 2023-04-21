@@ -1,4 +1,4 @@
-![logo](https://drive.google.com/file/d/1V6oTevDc4Xclhf8DEMIWJkrKV1AO7ZrL/view?usp=share_link)
+![logo](https://github.com/NeerajYadav705/NeerajYadav705/blob/main/WhatsApp%20Image%202023-04-21%20at%2014.02.39.jpg)
 <h1 align="center">Hi 👋, I'm Neeraj Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
