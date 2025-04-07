@@ -8,11 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/neerajyadav351" target="blank"><img src="https://img.shields.io/twitter/follow/neerajyadav351?logo=twitter&style=for-the-badge" alt="neerajyadav351" /></a> </p>
 
-- 🔭 I’m currently working on DSA+JAVA [https://github.com/NeerajYadav705/Java-DSA](https://github.com/NeerajYadav705/Java-DSA)
+- 🌱 JavaScript **React.js Next.js**
 
-- 🌱 I’m currently learning JavaScript **React.js Next.js**
-
-- 💬 Ask me about **GSAP, AOS, REACT.JS, NEXT.JS**
+- 💬 Ask me about **REACT.JS, NEXT.JS**
 
 - 📫 How to reach me **Neeraj95578@gmail.com**
 
