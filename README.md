@@ -1,36 +1,48 @@
+<h1 align="center">👨‍💻 Neeraj Yadav</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;React+%7C+Next.js+Specialist;UI%2FUX+Enthusiast;Open-Source+Contributor" alt="Typing SVG" />
+</div>
 
-<h1 align="center">Hi 👋, I'm Neeraj Yadav</h1>
-<h3 align="center">A passionate Front-End Engineer from India</h3>
+<h3 align="center">B.Tech Student | Freelance Developer | JavaScript Expert</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=neerajyadav705&label=Profile%20views&color=0e75b6&style=flat" alt="neerajyadav705" /> </p
+---
 
+### 📝 Professional Summary
 
+I'm a passionate B.Tech student and freelance developer specializing in modern web technologies. With expertise in React.js, Next.js, and full-stack JavaScript development, I build performant, scalable web applications with clean code and intuitive user interfaces. When I'm not studying or coding, you'll find me contributing to open-source projects or exploring new design trends.
 
-<p align="left"> <a href="https://twitter.com/neerajyadav351" target="blank"><img src="https://img.shields.io/twitter/follow/neerajyadav351?logo=twitter&style=for-the-badge" alt="neerajyadav351" /></a> </p>
+---
 
-- 🌱 JavaScript **React.js Next.js**
+### 🛠️ Tech Stack
 
-- 💬 Ask me about **REACT.JS, NEXT.JS**
+#### **Frontend Development**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-- 📫 How to reach me **Neeraj95578@gmail.com**
+#### **Backend & Databases**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/neeraj-yadav-017a571b4/](https://www.linkedin.com/in/neeraj-yadav-017a571b4/)
+#### **Tools & Platforms**
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/neerajyadav351" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="neerajyadav351" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/neeraj-yadav-017a571b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neeraj yadav" height="30" width="40" /></a>
-<a href="https://instagram.com/neeraj_yadav_705" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="neeraj_yadav_705" height="30" width="40" /></a>
-</p>
+---
 
+### 📌 Featured Skills
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neerajyadav705&show_icons=true&locale=en&layout=compact" alt="neerajyadav705" /></p>
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neerajyadav705&" alt="neerajyadav705" /></p>
-
-<p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
+```javascript
+const skills = {
+  languages: ["JavaScript", "TypeScript", "HTML5", "CSS3"],
+  frontend: ["React.js", "Next.js", "Tailwind CSS", "Bootstrap"],
+  backend: ["Node.js", "Express.js", "MongoDB", "Firebase"],
+  tools: ["Git", "Docker", "Vercel", "Figma"],
+  design: ["UI/UX", "Responsive Design", "Figma", "Photoshop"]
+};
